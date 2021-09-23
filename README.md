@@ -1,6 +1,7 @@
 # Flix
 
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+This app was completed in 2 parts, each part is seen below.
 
 ## Flix Part 2
 
@@ -17,7 +18,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ![4zq062](https://user-images.githubusercontent.com/70181314/109395579-133fba00-78fb-11eb-943a-e15b2d12631a.gif)
 
 ---
-This Project was completed in 2 Parts
 
 ## Flix Part 1
 
